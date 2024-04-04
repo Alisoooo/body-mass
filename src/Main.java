@@ -5,5 +5,5 @@ public class Main {
         int result = service.calculate(50, 1.90);
 
         System.out.println(result);
-       }
     }
+}
